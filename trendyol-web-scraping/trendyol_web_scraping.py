@@ -8,6 +8,12 @@ def trendyolWebScraping():
     my_url = 'https://www.trendyol.com/monster/butikdetay/554859/erkek'
     page = requests.get(my_url)
     toplu = BeautifulSoup(page.text, 'html.parser')
+    print('----------------------------------------------------------------')
+    print('                                                                ')
+    print('                           Hazırlayan                           ')
+    print('                          Taner Sekmen                          ')
+    print('                                                                ')
+    print('----------------------------------------------------------------')
     # soup değerinde ürünlerin bulunduğu div yapısından class kısmı ile bağlı olan değerleri alıyoruz.
     toplu_urun = toplu.findAll('div', {"class":"p-card-wrppr"})
     # hepsini for döngüsü ile istediğimiz hale getiriyoruz.
