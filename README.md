@@ -1,4 +1,4 @@
-You can reach what I did about web scraping.
+You can reach what I did before about web scraping.
 
 I will improve myself at that field.
 
