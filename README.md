@@ -6,3 +6,10 @@ Halihazırda üzerinde durduğum çalışmalar, Türkiye'nin genellikle en büy�
 
 Bundan sonraki çalışmalarım, iş ilanları ve o iş ilanlarında istenen gereksinimler üzerine gelişecektir.
 
+
+
+You can reach what I did about web scraping.
+
+I will improve myself at that field.
+
+
