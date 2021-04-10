@@ -8,3 +8,5 @@ To write .txt file
 
 
 - I will prepare machine learning model with bigger data, when I pulled and collected in .csv file
+
+- I will combine .txt files to .csv file
