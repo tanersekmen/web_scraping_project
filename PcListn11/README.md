@@ -1,8 +1,12 @@
-Web scraping tarafında yaptığım çalışmalara buradan ulaşabilirsiniz.
+---- n11 Computer List ----
 
-İlerleyen süreçte bu alanda daha fazla ve daha farklı projeleri rahatlıkla görebilirsiniz.
+You can pull data from https://www.n11.com/ with code that I wrote
 
-Halihazırda üzerinde durduğum çalışmalar, Türkiye'nin genellikle en büyük firmalarının satış verilerini çekmek.
+This project leads to reach computer name list and their price 
 
-Bundan sonraki çalışmalarım, iş ilanları ve o iş ilanlarında istenen gereksinimler üzerine gelişecektir.
+To write .txt file
 
+
+- I will prepare machine learning model with bigger data, when I pulled and collected in .csv file
+
+- I will combine .txt files to .csv file
